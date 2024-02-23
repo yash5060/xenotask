@@ -1,4 +1,5 @@
-module github.com/akhil/go-fiber-postgres
+
+module github.com/yash5060/xenotask
 
 go 1.16
 
